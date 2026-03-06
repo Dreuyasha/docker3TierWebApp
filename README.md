@@ -1,4 +1,4 @@
-# docker3TierWebApp
+# docker3TierWebApp ******IN PROGRESS******
 
 # 🏗️ Architecture Overview (3-Tier App)
 
@@ -63,7 +63,7 @@ Deploys with Docker Compose
 
 # 📁 Project Structure
 
-Your repo will look like this:
+Repo will look like this:
 
 
 3tier-docker-app/
